@@ -21,7 +21,7 @@
 }
 
 - (IBAction)next:(id)sender {
-         NSLog(@"首页");
+         NSLog(@"点击了一下");
 }
 
 @end
