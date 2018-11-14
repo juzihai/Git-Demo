@@ -13,6 +13,7 @@
 		0271F6B421991710002D8CB8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 0271F6B321991710002D8CB8 /* Assets.xcassets */; };
 		0271F6B721991710002D8CB8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 0271F6B521991710002D8CB8 /* LaunchScreen.storyboard */; };
 		0271F6BA21991710002D8CB8 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 0271F6B921991710002D8CB8 /* main.m */; };
+		78312C44219C194200F1386B /* mapViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 78312C43219C194200F1386B /* mapViewController.m */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -26,6 +27,8 @@
 		0271F6B621991710002D8CB8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		0271F6B821991710002D8CB8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		0271F6B921991710002D8CB8 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
+		78312C42219C194200F1386B /* mapViewController.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = mapViewController.h; sourceTree = "<group>"; };
+		78312C43219C194200F1386B /* mapViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = mapViewController.m; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +65,8 @@
 				0271F6AB2199170F002D8CB8 /* AppDelegate.m */,
 				0271F6AD2199170F002D8CB8 /* ViewController.h */,
 				0271F6AE2199170F002D8CB8 /* ViewController.m */,
+				78312C42219C194200F1386B /* mapViewController.h */,
+				78312C43219C194200F1386B /* mapViewController.m */,
 				0271F6B02199170F002D8CB8 /* Main.storyboard */,
 				0271F6B321991710002D8CB8 /* Assets.xcassets */,
 				0271F6B521991710002D8CB8 /* LaunchScreen.storyboard */,
@@ -144,6 +149,7 @@
 				0271F6AF2199170F002D8CB8 /* ViewController.m in Sources */,
 				0271F6BA21991710002D8CB8 /* main.m in Sources */,
 				0271F6AC2199170F002D8CB8 /* AppDelegate.m in Sources */,
+				78312C44219C194200F1386B /* mapViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
