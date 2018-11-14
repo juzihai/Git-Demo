@@ -18,6 +18,8 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     NSLog(@"我是王祥梅的map第一次更改");
+    NSLog(@"我是王祥梅的map第3次更改");
+
 }
 
 - (void)didReceiveMemoryWarning {
