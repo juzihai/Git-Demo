@@ -17,7 +17,9 @@
 - (void)viewDidLoad {
     [super viewDidLoad];
     // Do any additional setup after loading the view, typically from a nib.
-       NSLog(@"我是首页");
+       NSLog(@"首页");
+    
+    NSLog(@"第一次改变");
 }
 
 - (IBAction)next:(id)sender {
